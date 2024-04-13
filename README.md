@@ -2,7 +2,7 @@
 Ejemplos y usos de la convolución y de la transformada de Fourier para procesar datos
 
 # ¿Cómo usar?
-##Instalar las dependencias de python:
+## Instalar las dependencias de python:
   - PIL
   - numpy
   - scipy
