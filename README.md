@@ -1,6 +1,6 @@
 # Testing de Convolución y FFT
 Ejemplos y usos de la convolución y de la transformada de Fourier para procesar datos
-![]([http://url/to/img.png](https://i.ytimg.com/vi/KuXjwB4LzSA/maxresdefault.jpg))
+![3b1b Convolution]([Convolution.jpg)
 
 # ¿Cómo usar?
 ## Instalar las dependencias de python:
