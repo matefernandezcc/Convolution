@@ -15,3 +15,4 @@ Ejemplos y usos de convolución y de la transformada de Fourier para procesar da
 - Agregar la imágen a usar en la carpeta images
 - Correr el programa y especificar el nombre de la imágen "imagenEjemplo.jpg"
 - La imágen procesada se guarda en la carpeta blur
+- Modificar en el código los paths para input y output
