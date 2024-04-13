@@ -1,5 +1,5 @@
 # Testing de Convolución y FFT
-Ejemplos y usos de la convolución y de la transformada de Fourier para procesar datos
+Ejemplos y usos de convolución y de la transformada de Fourier para procesar datos
 
 <p align="center">
   <img src="https://i.ytimg.com/vi/KuXjwB4LzSA/maxresdefault.jpg" width="350" title="Convolution">
