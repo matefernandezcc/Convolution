@@ -7,9 +7,9 @@ Ejemplos y usos de la convolución y de la transformada de Fourier para procesar
 
 # ¿Cómo usar?
 ## Instalar las dependencias de python:
-  - PIL
-  - numpy
-  - scipy
+  - [PIL](https://pillow.readthedocs.io/en/stable/installation.html)
+  - [numpy](https://pillow.readthedocs.io/en/stable/installation.html)
+  - [scipy](https://scipy.org/install/)
 
 ## Uso
 - Agregar la imágen a usar en la carpeta ./images
